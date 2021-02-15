@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**kira1603/kira1603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # Hello 👋, I'm RAKOTONDRAMANANA Fanantenana Olivier!
 
@@ -31,4 +29,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
