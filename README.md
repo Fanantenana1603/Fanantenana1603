@@ -1,5 +1,3 @@
-### Hi there 👋
-
 
 # Hello 👋, I'm RAKOTONDRAMANANA Fanantenana Olivier!
 
